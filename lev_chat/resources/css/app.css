@@ -1,0 +1,23 @@
+.links {
+    background-color: gray;
+    margin-left:60%;
+    border: solid darkblue;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.field {
+    clear:both;
+    text-align:right;
+}
+
+.login-label {
+    float:left;
+    padding-right:10px;
+}
+
+.main {
+    float:left;
+}
